@@ -9,13 +9,13 @@ This project focuses on enhancing cybersecurity awareness by creating a tool tha
 
 The generator ensures that every password is unique, secure, and unpredictable, showcasing how Python can be applied to solve real-world security problems.
 
-Key Learnings:
+**Key Learnings:**
 🔹 Using the random and string libraries in Python
 🔹 Understanding randomness and character manipulation
 🔹 Writing reusable and efficient code
 🔹 Enhancing logic-building & coding confidence
 
-Tech Stack:
+**Tech Stack:**
 🐍 Python
 📦 random, string libraries
 💻 Jupyter Notebook / Google Colab
